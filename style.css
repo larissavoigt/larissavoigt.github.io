@@ -1,0 +1,25 @@
+body {
+  background-color: #DCDCDC;
+}
+
+.Aligner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Aligner-item {
+  max-width: 50%;
+}
+
+h1 {
+  font-family: Oswald;
+  color: black;
+  font-size: 90px;
+}
+
+h4 {
+  font-family: Lato;
+  color: black;
+  font-size:50px;
+}
