@@ -23,13 +23,13 @@ h1, h4, ul {
 
 h1 {
   font-family: Oswald;
-  color: black;
+  color: #000000;
   font-size: 95px;
 }
 
 h4 {
   font-family: Lato;
-  color: black;
+  color: #000000;
   font-size:45px;
 }
 
@@ -44,6 +44,6 @@ li {
 }
 
 a:hover, a:visited, a:link, a:active {
-  color: black;
+  color: #000000;
   text-decoration: none;
 }
