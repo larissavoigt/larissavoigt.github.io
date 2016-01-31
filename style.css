@@ -17,22 +17,33 @@ body {
   max-width: 50%;
 }
 
+h1, h4, ul {
+  text-align: center;
+}
+
 h1 {
   font-family: Oswald;
   color: black;
-  font-size: 90px;
+  font-size: 95px;
 }
 
 h4 {
   font-family: Lato;
   color: black;
-  font-size:50px;
+  font-size:45px;
 }
 
 ul {
   list-style-type: none;
+  padding-left: 0;
 }
 
 li {
-  display: inline;
+  display: inline-block;
+  margin: 0 18px;
+}
+
+a:hover, a:visited, a:link, a:active {
+  color: black;
+  text-decoration: none;
 }
