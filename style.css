@@ -13,8 +13,10 @@ body {
   justify-content: center;
 }
 
-.Aligner-item {
-  max-width: 50%;
+@media (min-width: 992px) {
+  .Aligner-item {
+    max-width: 50%;
+  }
 }
 
 h1, h4, ul {
